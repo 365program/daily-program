@@ -1,0 +1,5 @@
+﻿  exp_01.cpp
+C:\Users\Lenovo\source\repos\Project_4_08\Project_4_08\exp_01.cpp(395,5): error C2440: “初始化”: 无法从“char (*)[10]”转换为“int (*)[10]”
+C:\Users\Lenovo\source\repos\Project_4_08\Project_4_08\exp_01.cpp(395,14): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\Lenovo\source\repos\Project_4_08\Project_4_08\exp_01.cpp(398,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\Lenovo\source\repos\Project_4_08\Project_4_08\exp_01.cpp(398,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
